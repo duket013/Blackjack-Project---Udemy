@@ -1,2 +1,4 @@
 # Blackjack-Project---Udemy
-First long project working on functions, game logic and classes solo.  Definitely needs to be cleaned up especially around the game logic point!
+# First long(for me) project working on functions, game logic and classes on my own.  Definitely needs to be cleaned up especially around the game logic point!
+
+
